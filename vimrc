@@ -69,7 +69,7 @@ set tags=./tags;
 set grepprg=ack
 
 let mapleader = ","
-map <Leader>t :NERDTree
+map <Leader>t :NERDTree<CR>
 map <Leader>e :e <C-R>=expand("%:p:h") . '/'<CR>
 map <Leader>s :split <C-R>=expand("%:p:h") . '/'<CR>
 map <Leader>v :vnew <C-R>=expand("%:p:h") . '/'<CR>
