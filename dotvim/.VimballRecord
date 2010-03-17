@@ -1,0 +1,2 @@
+tComment.vba: call delete('/Users/mparker/.vim/doc/tComment.txt')|call delete('/Users/mparker/.vim/plugin/tComment.vim')|call delete('/Users/mparker/.vim/autoload/tcomment.vim')
+rdoc-1.1.2.vba: call delete('/Users/mparker/.vim/ftdetect/rdoc.vim')|call delete('/Users/mparker/.vim/snippets/rdoc.snippets')|call delete('/Users/mparker/.vim/syntax/rdoc.vim')
